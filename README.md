@@ -22,6 +22,7 @@ DROPLET_IP=111.112.122.222
 ```
 ./do remote_nb.sh
 ```
+You should now have access to jupyter at [localhost:8080](http://localhost:8080)
 
 ## Tools
 ### do
